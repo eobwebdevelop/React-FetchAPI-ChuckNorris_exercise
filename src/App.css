@@ -4,6 +4,7 @@
 
 .App-logo {
   height: 40vmin;
+  transition: all 0.5s ease;
 }
 
 .App-header {
@@ -20,3 +21,5 @@
 .App-link {
   color: #09d3ac;
 }
+
+.effect{transform: translate(0px, -100px); transition: all 0.5s ease;}
