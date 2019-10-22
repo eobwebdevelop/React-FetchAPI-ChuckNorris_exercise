@@ -7,13 +7,14 @@ import Button from "./Button";
 // import Lamp from "./Lamp";
 
 class App extends Component {
+  
 
   render() {
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo"  id="show" alt="logo" />
-          <Button on/>
+          <Button on onClick/>
           <h1 className="App-title">Simpsons Quotes</h1>
         </header>
 
