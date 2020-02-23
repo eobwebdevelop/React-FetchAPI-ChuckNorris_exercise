@@ -1,3 +1,9 @@
+## Description
+The main goal of this exercise is fetching API 
+
+## Deployed Version
+https://react-fetch-api-chuck-norris.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
