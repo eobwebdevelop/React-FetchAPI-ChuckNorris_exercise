@@ -1,5 +1,5 @@
 ## Description
-The main goal of this exercise is fetching API 
+The main goal of this exercise is fetching API on React
 
 ## Deployed Version
 https://react-fetch-api-chuck-norris.netlify.com/
