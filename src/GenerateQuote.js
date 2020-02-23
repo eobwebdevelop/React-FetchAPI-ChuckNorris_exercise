@@ -1,11 +1,11 @@
 import  React  from  'react';
 
-const  GenerateEmployee = ({ generateQuote }) => {
+const  GenerateQuote = ({ generateQuote }) => {
     return (
-        <div  className="GenerateEmployee">
+        <div  className="GenerateQuote">
             <button  onClick={generateQuote}>Get quote</button>
         </div>
     );
 };
 
-export  default  GenerateEmployee;
+export  default  GenerateQuote;

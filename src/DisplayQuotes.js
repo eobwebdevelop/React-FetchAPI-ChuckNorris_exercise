@@ -1,9 +1,9 @@
 import  React  from  'react';
 
 
-const  DisplayEmployee = ({ quote }) => {
+const  DisplayQuotes = ({ quote }) => {
     return (
-        <div  className="DisplayEmployee">
+        <div  className="DisplayQuotes">
 
             <ul>
                 
@@ -17,5 +17,5 @@ const  DisplayEmployee = ({ quote }) => {
     );
 };
 
-export  default  DisplayEmployee;
+export  default  DisplayQuotes;
 
